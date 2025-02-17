@@ -2,6 +2,9 @@
 
 Welcome to Codeforce Clone! This project is a web application that emulates the functionality of the popular competitive programming platform Codeforces. It allows users to participate in coding contests, solve problems, and engage with a community of programmers.
 
+# Vision
+Create an open-source platform where programmers can practice, compete, and learn together. The platform will support real-time contests, secure code execution, and a collaborative learning environment.
+
 ## Features
 
 - **User Authentication**: Secure sign-up and login functionality.
@@ -14,10 +17,9 @@ Welcome to Codeforce Clone! This project is a web application that emulates the 
 
 ## Tech Stack
 
-- **Frontend**: React.js
+- **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JWT (JSON Web Tokens)
-- **Real-time Communication**: WebSocket (for real-time leaderboard)
+- **Database**: PostgreSQL, MongoDB
+- **Infrastructure:**: Docker, WebSockets
 
 
